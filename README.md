@@ -42,6 +42,8 @@ Before you continue, ensure you have the following requirements:
 </div>
 
 <div id="what i have done">
+
+  ## What i have done
   <ul>
     <li>By using that data I wrote a logic that will check whether the entered input has a solution or not</li>
     <li>Now you can run my code and get the solution of the sudoku-puzzle</li>
