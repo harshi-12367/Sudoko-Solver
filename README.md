@@ -1,17 +1,32 @@
 # Sudoko-Solver
 The project contains a Java implemented sudoku solver using a backtracking algorithm. By using these a solver a can solve any standard 9x9 sudoku puzzle.
 ## Features
--The code is simple and easy to understand.
--Validates the sudoko puzzle to ensure it's solvable.
--Solves any standard 9x9 puzzle by using backtracking algorithm.
+<ul>
+<li>The code is simple and easy to understand.</li>
+<li>Validates the sudoko puzzle to ensure it's solvable.</li>
+<li>Solves any standard 9x9 puzzle by using backtracking algorithm.</li>
+</ul>
+
 ## Table of contents
 <ul>
-<li><a href="#getting-started">Getting-Started</a></li>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#example">Example</a></li>
-<li><a href="#contributing">Contributing</a></li>
-<li><a href="#licence">Licence</li>
+<li><a href="#Getting-started">Getting-Started</a></li>
+<li><a href="#Usage">Usage</a></li>
+<li><a href="#Contributing">Contributing</a></li>
+<li><a href="#Licence">Licence</li>
 </ul>
   
 ## Getting-Started
 This project will help you set up the project on your local machine for developing and testing purpose.
+
+## Usage
+<ol>
+<li>Open sudoku-solver.java file.</li>
+<li>Modify the 'sudoku_board' use 0 for empty cells.</li>
+<li>Run the script to solve the puzzle.</li>
+</ol>
+
+## Contributing
+
+
+
+
