@@ -14,10 +14,14 @@ The project contains a Java implemented sudoku solver using a backtracking algor
 <li><a href="#Contributing">Contributing</a></li>
 <li><a href="#Licence">Licence</li>
 </ul>
+
+<div id="Getting-started"><!--getting-started-->
   
 ## Getting-Started
 This project will help you set up the project on your local machine for developing and testing purpose.
 
+<div id="Usage"><!--usage-->
+  
 ## Usage
 <ol>
 <li>Open sudoku-solver.java file.</li>
@@ -25,7 +29,10 @@ This project will help you set up the project on your local machine for developi
 <li>Run the script to solve the puzzle.</li>
 </ol>
 
+<div id="Contributing"><!--Contributing-->
+  
 ## Contributing
+
 
 
 
