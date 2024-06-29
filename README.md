@@ -54,8 +54,8 @@ Before you continue, ensure you have the following requirements:
   
 ## Contributing
 <ul>
-<li>Drop a pull request if you found a new feature</li>
-<li>Don't forget to star if you like it</li>
+<li>Drop a pull request if you found a new feature✨</li>
+<li>Don't forget to star⭐ if you like it</li>
 </ul>
 </div>
 
