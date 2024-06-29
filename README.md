@@ -12,7 +12,7 @@ The project contains a Java implemented sudoku solver using a backtracking algor
 <li><a href="#Getting-started">Getting-Started</a></li>
 <li><a href="#Prerequistics">Prerequistics</a></li>
 <li><a href="#Usage">Usage</a></li>
-<li><a href="what i have done">What I have done</a></li>
+<li><a href="#what_i_have_done">What I have done</a></li>
 <li><a href="#Contributing">Contributing</a></li>
 </ul>
 
@@ -41,9 +41,9 @@ Before you continue, ensure you have the following requirements:
 </ol>
 </div>
 
-<div id="what i have done">
+<div id="what_i_have_done">
 
-  ## What i have done
+## What i have done
   <ul>
     <li>By using that data I wrote a logic that will check whether the entered input has a solution or not</li>
     <li>Now you can run my code and get the solution of the sudoku-puzzle</li>
